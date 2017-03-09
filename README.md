@@ -1,7 +1,7 @@
 ## 在线简历
 
-- [网页版](http://mashell/resume/)
-- [PDF版](http://mashell/resume/resume.pdf)
+- [网页版](http://mashell.cn/resume/)
+- [PDF版](http://mashell.cn/resume/resume.pdf)
 
 
 
